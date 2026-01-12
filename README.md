@@ -8,6 +8,8 @@ IdeaClone is a TypeScript-based AI tool designed to help creators, marketers, an
 - **Iterate Fast**: Turn 1 idea into 100 variations.
 - **Visual Brainstorming**: Mind-map style visualization.
 - **Export Ready**: Copy results directly to Notion/Figma.
+https://github.com/user-attachments/assets/b536c764-14e8-44b3-8a68-c9dc51bf0e63
+
 
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="IdeaCyclone AI Thinking Partner Overview.png" />
@@ -20,6 +22,7 @@ IdeaClone is a TypeScript-based AI tool designed to help creators, marketers, an
   </a>
   
 </div>
+
 
 <div align="center">
 
