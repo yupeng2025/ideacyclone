@@ -47,6 +47,29 @@ IdeaCyclone is more than just a mind mapping tool; it's a **Showcase of Modern W
 
 ---
 
+## 🧠 Supported Models
+
+IdeaCyclone supports a wide range of LLMs through various providers. You can switch models in the **Settings** panel.
+
+| Provider | Model Name | Description | ID |
+| :--- | :--- | :--- | :--- |
+| **Google** | Gemini 3.0 Flash | Latest flagship model | `gemini-3.0-flash` |
+| **Google** | Gemini 2.5 Flash | Standard fast model | `gemini-2.5-flash` |
+| **Google** | Gemini 2.5 Flash Lite | Lightweight fast model | `gemini-2.5-flash-lite` |
+| **OpenAI** | GPT-4o | High intelligence flagship | `gpt-4o` |
+| **OpenAI** | GPT-4o mini | Cost-effective small model | `gpt-4o-mini` |
+| **DeepSeek** | DeepSeek V3 | Strong open-weights model | `deepseek-chat` |
+| **DeepSeek** | DeepSeek R1 (Reasoner) | Optimized for reasoning | `deepseek-reasoner` |
+| **Zhipu AI** | GLM-4 Flash | Fast Chinese/English model | `glm-4-flash` |
+| **Moonshot** | Moonshot V1 (8k) | Kimi wrapper | `moonshot-v1-8k` |
+| **Aliyun** | Qwen Max | Qwen flagship | `qwen-max` |
+| **Groq** | Llama 3.3 70B | Ultra-fast inference | `llama-3.3-70b-versatile` |
+| **OpenRouter** | Mistral Devstral 2 | Experimental Mistral model | `mistralai/devstral-2512:free` |
+| **OpenRouter** | Xiaomi MiMo V2 | Mobile optimized | `xiaomi/mimo-v2-flash:free` |
+| **GitHub** | Llama 4 Scout | GitHub Models service | `Llama-4-Scout-17B-16E-Instruct` |
+
+
+
 ## ✨ Key Features
 
 -   **Active AI Partner**: Switch expert personas (Logical Architect, Creative Director, etc.) to get tailored suggestions.
