@@ -1,0 +1,5 @@
+{
+  "name": "IdeaCyclone - Creative Divergence",
+  "description": "A creative brainstorming tool using Gemini to generate associated concepts in a glassmorphic, interactive node graph.",
+  "requestFramePermissions": []
+}
