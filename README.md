@@ -1,5 +1,9 @@
 # IdeaCyclone 🌪️
 
+
+https://github.com/user-attachments/assets/a91f9853-9c73-417c-9d76-a5211c279e7a
+
+<br/>
 <div align="center">
 
   <img width="1200" height="475" alt="IdeaCyclone AI Mind Map" src="IdeaCyclone AI Thinking Partner Overview.png" />
