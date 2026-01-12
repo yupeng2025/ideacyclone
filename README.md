@@ -15,6 +15,14 @@ IdeaClone is a TypeScript-based AI tool designed to help creators, marketers, an
 
 <div align="center">
 
+  <a href="https://yuho-aigc.lsv.jp/idea/">
+    <img src="https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge&logo=vercel" alt="Live Demo" height="30" />
+  </a>
+  
+</div>
+
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
